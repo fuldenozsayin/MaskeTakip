@@ -1,4 +1,4 @@
-Projenin Amacı: 
--Bir kişi maske için başvuru yapacak. 
--Bizim sistemimiz böyle biri var mı diye kontrol edecek.
--Bilgiler doğruysa bu kişiye diyeceğiz ki "... kodla maskeni alabilirsin.".
+Projenin AmacÄ±: 
+-Bir kiÅŸi maske iÃ§in baÅŸvuru yapacak. 
+-Bizim sistemimiz bÃ¶yle biri var mÄ± diye kontrol edecek.
+-Bilgiler doÄŸruysa bu kiÅŸiye "... kodla maskeni alabilirsin." diyeceÄŸiz.
