@@ -1,0 +1,7 @@
+SOLID PRENSÝPLERÝ
+Her metot bir iþi yapar. (katmanlara ayýrma nedenimiz de bu)
+
+ABSTRACT=> Soyut nesnelerimizi tutacak.
+CONCRETE=> Somut nesnelerimizi tutacak.
+!!soner cube
+FONKSÝYON=> Diyelim ki bizim bir operasyonumuz var ApplyForMask gibi. Bunu projenin bir çok yerinde kullanabiliriz. Biz sýklýkla kullanacaðýmýz operasyonlarý böyle fonksiyonlarýn yani metotlarýn içine yazýyoruz ki onu kullanabilelim.
